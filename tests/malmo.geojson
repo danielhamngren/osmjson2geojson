@@ -1,0 +1,2288 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-10-24T11:43:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99835705",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "Slottsträdgårdens Kafé",
+        "opening_hours": "Mo-Su 11:00-17:00",
+        "source": "survey",
+        "website": "www.slottstradgardenskafe.se",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9892087,
+          55.6037766
+        ]
+      },
+      "id": "way/99835705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/189510000",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Doffeln",
+        "payment:cash": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0014409,
+          55.5922705
+        ]
+      },
+      "id": "way/189510000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/220245481",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "24",
+        "addr:postcode": "211 36",
+        "addr:street": "Baltzarsgatan",
+        "amenity": "cafe",
+        "contact:website": "http://www.lillakafferosteriet.se/",
+        "cuisine": "coffee_shop",
+        "name": "Lilla Kafferosteriet",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 10:00-18:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "no",
+        "smoking": "outside",
+        "toilets": "yes",
+        "toilets:access": "permissive",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0028859,
+          55.6045225
+        ]
+      },
+      "id": "way/220245481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/230902324",
+        "amenity": "cafe",
+        "building": "yes",
+        "fixme": "amenity type",
+        "name": "Mässingens mat och trädgård",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.951904,
+          55.5608845
+        ]
+      },
+      "id": "way/230902324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383042812",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "Brygga 1",
+        "addr:postcode": "217 59",
+        "addr:street": "Limhamnsvägen",
+        "amenity": "cafe",
+        "contact:website": "http://www.ribersborgskallbadhus.se/",
+        "level": "0",
+        "name": "Ribersborgs Kallbadhus",
+        "operator": "Hekajo AB",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9657334,
+          55.604872
+        ]
+      },
+      "id": "way/383042812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417994872",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Element",
+        "opening_hours": "Mo-Fr 09:30-18:00, Sa,Su 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0099169,
+          55.6011294
+        ]
+      },
+      "id": "node/417994872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417994873",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Pappas flickor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0106851,
+          55.6014218
+        ]
+      },
+      "id": "node/417994873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444845100",
+        "amenity": "cafe",
+        "brand": "Espresso House",
+        "brand:wikidata": "Q10489162",
+        "brand:wikipedia": "en:Espresso House",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Espresso House",
+        "opening_hours": "Mo-Fr 05:30-22:00, Sa,Su 07:00-20:00",
+        "operator": "Espresso House",
+        "source": "survey",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9995291,
+          55.6087207
+        ]
+      },
+      "id": "node/444845100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444845105",
+        "amenity": "cafe",
+        "brand": "Espresso House",
+        "brand:wikidata": "Q10489162",
+        "brand:wikipedia": "en:Espresso House",
+        "cuisine": "coffee_shop",
+        "name": "Espresso House",
+        "operator": "Espresso House",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9729934,
+          55.6106266
+        ]
+      },
+      "id": "node/444845105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444870966",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "7b",
+        "addr:postcode": "21125",
+        "addr:street": "Östergatan",
+        "amenity": "cafe",
+        "cuisine": "french",
+        "name": "Pâtisserie David",
+        "source": "http://www.patisseriedavid.se/",
+        "website": "http://www.patisseriedavid.se/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0074188,
+          55.6078414
+        ]
+      },
+      "id": "node/444870966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444880200",
+        "amenity": "cafe",
+        "cuisine": "african",
+        "name": "African way"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0206018,
+          55.6064603
+        ]
+      },
+      "id": "node/444880200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445846438",
+        "amenity": "cafe",
+        "name": "Wallins konditori",
+        "opening_hours": "Mo-Fr 06:00-19:00; Sa 07:00-18:00; Su 08:00-16:00",
+        "payment:cash": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.006416,
+          55.5858153
+        ]
+      },
+      "id": "node/445846438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/472675243",
+        "amenity": "cafe",
+        "name": "Skånegården"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9347897,
+          55.5596357
+        ]
+      },
+      "id": "node/472675243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/536833709",
+        "amenity": "cafe",
+        "name": "Kaffebaren",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 09:00-18:00",
+        "payment:cash": "yes",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0087673,
+          55.5910428
+        ]
+      },
+      "id": "node/536833709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/625987389",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "3",
+        "addr:postcode": "21119",
+        "addr:street": "Anckargripsgatan",
+        "amenity": "cafe",
+        "name": "Välfärden",
+        "opening_hours": "mo-fr 08:00-16:00",
+        "payment:cash": "no",
+        "phone": "+46 40 26 43 30",
+        "website": "https://valfarden.nu/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9943151,
+          55.6112939
+        ]
+      },
+      "id": "node/625987389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897688921",
+        "amenity": "cafe",
+        "name": "Arena 305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0176798,
+          55.5848529
+        ]
+      },
+      "id": "node/897688921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1176790954",
+        "amenity": "cafe",
+        "name": "Mocca",
+        "wheelchair": "no",
+        "wheelchair:description": "3 steps to get in, no accessable bathroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.00345,
+          55.59618
+        ]
+      },
+      "id": "node/1176790954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1176797496",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "11",
+        "addr:postcode": "21134",
+        "addr:street": "Skomakaregatan",
+        "amenity": "cafe",
+        "name": "Folk å Rock",
+        "phone": "+46 40 78103",
+        "website": "https://folkarock.se/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.99932,
+          55.6049603
+        ]
+      },
+      "id": "node/1176797496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1208663511",
+        "amenity": "cafe",
+        "name": "Tryckeriet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0171158,
+          55.5879883
+        ]
+      },
+      "id": "node/1208663511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1309334554",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "2 a",
+        "addr:postcode": "211 49",
+        "addr:street": "Kungsgatan",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Kafé Kungsgatan",
+        "website": "http://www.kungsg.se"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0055497,
+          55.5996979
+        ]
+      },
+      "id": "node/1309334554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1309356207",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "11",
+        "addr:postcode": "211 41",
+        "addr:street": "Kaptensgatan",
+        "amenity": "cafe",
+        "name": "Café 2000",
+        "opening_hours": "Mo-Fr 10:00-18:00, Sa 12:00-16:00",
+        "website": "http://www.cafe2000.se/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0046313,
+          55.6002337
+        ]
+      },
+      "id": "node/1309356207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1359118612",
+        "amenity": "cafe",
+        "name": "Kleins Mat",
+        "website": "http://www.kleinsmat.se"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.003924,
+          55.5509315
+        ]
+      },
+      "id": "node/1359118612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1488710555",
+        "amenity": "cafe",
+        "name": "Uggla",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa,Su 10:00-16:00",
+        "payment:cash": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0137563,
+          55.596941
+        ]
+      },
+      "id": "node/1488710555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624179498",
+        "amenity": "cafe",
+        "name": "Café Grannen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0263175,
+          55.6055065
+        ]
+      },
+      "id": "node/1624179498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1668872414",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "5",
+        "addr:postcode": "21743",
+        "addr:street": "Köpenhamnsvägen",
+        "amenity": "cafe",
+        "name": "Feed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9859105,
+          55.5937552
+        ]
+      },
+      "id": "node/1668872414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1669560489",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "53",
+        "addr:postcode": "21741",
+        "addr:street": "Västra Rönneholmsvägen",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Knus",
+        "opening_hours": "We-Fr 11:00-17:00; Sa 11:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9857669,
+          55.595424
+        ]
+      },
+      "id": "node/1669560489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1669563673",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "26",
+        "addr:street": "Östra Rönneholmsvägen",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Systrar & Bröder",
+        "opening_hours": "Mo,Tu 07:30-16:00, We-Fr 07:30-18:00, Sa 08:00-16:00, Su 09:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9931425,
+          55.59631
+        ]
+      },
+      "id": "node/1669563673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1677335986",
+        "addr:city": "Malmö",
+        "addr:housenumber": "10 B",
+        "addr:postcode": "211 19",
+        "addr:street": "Isbergs gata",
+        "amenity": "cafe",
+        "name": "Bryggans bageri & café",
+        "opening_hours": "Mo-Fr 09:00-14:30; Sa 09:00-12:00; Su off",
+        "opening_hours:covid19": "open",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.990992,
+          55.6137424
+        ]
+      },
+      "id": "node/1677335986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1677336006",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9998033,
+          55.609282
+        ]
+      },
+      "id": "node/1677336006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1677336035",
+        "amenity": "cafe",
+        "brand": "Espresso House",
+        "brand:wikidata": "Q10489162",
+        "brand:wikipedia": "en:Espresso House",
+        "cuisine": "coffee_shop",
+        "name": "Espresso House",
+        "payment:cash": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0004214,
+          55.6094643
+        ]
+      },
+      "id": "node/1677336035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1677336195",
+        "amenity": "cafe",
+        "name": "West Side La Marina",
+        "note": "café & glassbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9746191,
+          55.6128624
+        ]
+      },
+      "id": "node/1677336195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685937003",
+        "amenity": "cafe",
+        "contact:website": "http://graffiticafe.se/index.php?ID=vastrahamnen",
+        "name": "Graffiti",
+        "website": "http://graffiticafe.se/index.php?ID=vastrahamnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9856568,
+          55.6126372
+        ]
+      },
+      "id": "node/1685937003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719418321",
+        "amenity": "cafe",
+        "name": "Limhamns kakbod & café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9292586,
+          55.5823076
+        ]
+      },
+      "id": "node/1719418321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1726889262",
+        "amenity": "cafe",
+        "name": "Coffee Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0075194,
+          55.5913132
+        ]
+      },
+      "id": "node/1726889262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1855387943",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:postcode": "211 57",
+        "addr:street": "S:t Knuts Torg 6A",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "name": "Sankt Knuts Bageri Konditori & Café",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "payment:cash": "yes",
+        "short_name": "S:t Knuts Bageri Konditori & Café",
+        "website": "https://www.cafekartan.se/018006/Sankt_Knuts_Bageri_Konditori_%26_Caf%C3%A9/",
+        "wheelchair": "limited",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0128191,
+          55.5969867
+        ]
+      },
+      "id": "node/1855387943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2206415088",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "8",
+        "addr:postcode": "211 43 Malmö",
+        "addr:street": "Södra Förstadsgatan",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Konditori Hollandia",
+        "payment:cash": "yes",
+        "website": "https://hollandia.se/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0012205,
+          55.600343
+        ]
+      },
+      "id": "node/2206415088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266095947",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "1",
+        "addr:postcode": "21158",
+        "addr:street": "Falsterbogatan",
+        "amenity": "cafe",
+        "cuisine": "vegetarian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Jord",
+        "opening_hours": "Tu-Fr 10:00-16:00; Sa 10:00-17:00; Su 10:00-17:00",
+        "payment:cash": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0169428,
+          55.5951054
+        ]
+      },
+      "id": "node/2266095947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293728897",
+        "amenity": "cafe",
+        "name": "Bageri caféet",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0004714,
+          55.6033151
+        ]
+      },
+      "id": "node/2293728897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293728898",
+        "amenity": "cafe",
+        "brand": "Barista",
+        "name": "Barista",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0013958,
+          55.6044211
+        ]
+      },
+      "id": "node/2293728898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293728923",
+        "amenity": "cafe",
+        "brand": "Espresso House",
+        "brand:wikidata": "Q10489162",
+        "brand:wikipedia": "en:Espresso House",
+        "cuisine": "coffee_shop",
+        "name": "Espresso House",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0007246,
+          55.6045384
+        ]
+      },
+      "id": "node/2293728923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293728924",
+        "amenity": "cafe",
+        "brand": "Espresso House",
+        "brand:wikidata": "Q10489162",
+        "brand:wikipedia": "en:Espresso House",
+        "cuisine": "coffee_shop",
+        "name": "Espresso House",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9992568,
+          55.6052324
+        ]
+      },
+      "id": "node/2293728924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293728966",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "name": "Lejonet & Björnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9976717,
+          55.6051204
+        ]
+      },
+      "id": "node/2293728966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293728993",
+        "amenity": "cafe",
+        "name": "Noir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9977269,
+          55.605051
+        ]
+      },
+      "id": "node/2293728993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293729008",
+        "amenity": "cafe",
+        "brand": "Pronto",
+        "name": "Pronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9992376,
+          55.6053659
+        ]
+      },
+      "id": "node/2293729008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2372994484",
+        "amenity": "cafe",
+        "name": "Bröd & Vänner",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-15:00; Su 09:00-15:00",
+        "payment:cash": "yes",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0190992,
+          55.5923458
+        ]
+      },
+      "id": "node/2372994484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408160477",
+        "amenity": "cafe",
+        "entrance": "yes",
+        "level": "0",
+        "name": "Espresso Maker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0035411,
+          55.5948987
+        ]
+      },
+      "id": "node/2408160477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2629795116",
+        "amenity": "cafe",
+        "branch": "Malmoe",
+        "name": "Foo Café",
+        "operator": "Foo Café AB",
+        "website": "https://foocafe.org/malmoe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9912192,
+          55.6123981
+        ]
+      },
+      "id": "node/2629795116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2958276010",
+        "amenity": "cafe",
+        "name": "Konditori Regementet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9752977,
+          55.5979625
+        ]
+      },
+      "id": "node/2958276010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3051074390",
+        "amenity": "cafe",
+        "indoor": "yes",
+        "name": "Ambrosia",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0034523,
+          55.5949446
+        ]
+      },
+      "id": "node/3051074390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3051074416",
+        "amenity": "cafe",
+        "cuisine": "frozen_jogurt",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9974146,
+          55.5980722
+        ]
+      },
+      "id": "node/3051074416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3051074422",
+        "amenity": "cafe",
+        "indoor": "yes",
+        "level": "1",
+        "name": "Wayne's",
+        "smoking": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0020634,
+          55.595912
+        ]
+      },
+      "id": "node/3051074422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3051074424",
+        "amenity": "cafe",
+        "name": "noı's",
+        "opening_hours": "Tu-Fr 11:00-19:00; Sa 11:00-18:30",
+        "source": "survey",
+        "website": "http://www.nois.nu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0033909,
+          55.5944955
+        ]
+      },
+      "id": "node/3051074424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3139895157",
+        "amenity": "cafe",
+        "name": "Olivias deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0059415,
+          55.5857668
+        ]
+      },
+      "id": "node/3139895157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3283009692",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "6",
+        "addr:postcode": "211 57",
+        "addr:street": "Mäster Henriksgatan",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Nummer 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0139586,
+          55.5962093
+        ]
+      },
+      "id": "node/3283009692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3357939782",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "8",
+        "addr:street": "Långgårdsgatan",
+        "amenity": "cafe",
+        "name": "Café Basement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9952101,
+          55.6052875
+        ]
+      },
+      "id": "node/3357939782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3357939784",
+        "amenity": "cafe",
+        "name": "Bagels Café & Catering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9954817,
+          55.6062173
+        ]
+      },
+      "id": "node/3357939784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3357999876",
+        "addr:country": "SE",
+        "addr:housenumber": "11",
+        "addr:street": "Agnesgatan",
+        "amenity": "cafe",
+        "name": "Kafé Agnez",
+        "name:sv": "Kafé Agnez",
+        "opening_hours": "Mo-Su 11:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9955578,
+          55.6030554
+        ]
+      },
+      "id": "node/3357999876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3361567564",
+        "amenity": "cafe",
+        "name": "Playbake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9984481,
+          55.6032854
+        ]
+      },
+      "id": "node/3361567564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3361573124",
+        "amenity": "cafe",
+        "name": "Frälsningsarmén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9962246,
+          55.60559
+        ]
+      },
+      "id": "node/3361573124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3399372495",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "1",
+        "addr:postcode": "21148",
+        "addr:street": "Helmfeltsgatan",
+        "amenity": "cafe",
+        "cuisine": "kaffe",
+        "name": "Musette",
+        "opening_hours": "Mo-Fr 11:00-18:00; Sa 11:00-15:00",
+        "shop": "bicycle",
+        "website": "https://www.musette.se/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9957467,
+          55.5979521
+        ]
+      },
+      "id": "node/3399372495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3400216789",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "2",
+        "addr:postcode": "21143",
+        "addr:street": "Regementsgatan",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/soldekaffebar",
+        "contact:instagram": "https://www.instagram.com/soldekaffe",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "solde",
+        "name": "Solde",
+        "payment:cash": "yes",
+        "smoking": "no",
+        "website": "http://www.solde.se/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0005028,
+          55.6007825
+        ]
+      },
+      "id": "node/3400216789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402678104",
+        "amenity": "cafe",
+        "name": "Nostra",
+        "payment:cash": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000513,
+          55.596158
+        ]
+      },
+      "id": "node/3402678104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402678107",
+        "amenity": "cafe",
+        "name": "Djäkne kaffebar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0044063,
+          55.6057249
+        ]
+      },
+      "id": "node/3402678107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402678108",
+        "addr:city": "Malmö",
+        "addr:postcode": "211 19",
+        "addr:street": "Isbergs gata",
+        "amenity": "cafe",
+        "name": "Grytan i Dockan",
+        "opening_hours": "Mo-Fr 11:30-13:30; Sa-Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.991096,
+          55.61361
+        ]
+      },
+      "id": "node/3402678108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402678112",
+        "amenity": "cafe",
+        "name": "Green Yellow Juice bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.001511,
+          55.608906
+        ]
+      },
+      "id": "node/3402678112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402678114",
+        "amenity": "cafe",
+        "name": "Café Vendi",
+        "opening_hours": "Mo-Fr 08:00-17:00; Sa,Su 10:00-17:00",
+        "payment:cash": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.007516,
+          55.588932
+        ]
+      },
+      "id": "node/3402678114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402678120",
+        "amenity": "cafe",
+        "name": "Larssons bröd och salladsbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.006493,
+          55.601052
+        ]
+      },
+      "id": "node/3402678120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402678125",
+        "amenity": "cafe",
+        "name": "Puls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.005613,
+          55.607802
+        ]
+      },
+      "id": "node/3402678125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402696488",
+        "amenity": "cafe",
+        "brand": "Joe & The Juice",
+        "brand:wikidata": "Q26221514",
+        "brand:wikipedia": "en:Joe & The Juice",
+        "cuisine": "coffee_shop",
+        "name": "Joe & the Juice",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000547,
+          55.594843
+        ]
+      },
+      "id": "node/3402696488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3408732006",
+        "amenity": "cafe",
+        "name": "Olga's Coffee & Simple Pleasures",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9977124,
+          55.6067747
+        ]
+      },
+      "id": "node/3408732006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3414459924",
+        "amenity": "cafe",
+        "name": "Röstånga Mölla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9967678,
+          55.60692
+        ]
+      },
+      "id": "node/3414459924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3580863602",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "3",
+        "addr:postcode": "211 57",
+        "addr:street": "Mäster Danielsgatan",
+        "amenity": "cafe",
+        "name": "Söderberg & Sara",
+        "phone": "+46-40-125810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0141745,
+          55.5966436
+        ]
+      },
+      "id": "node/3580863602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3665126362",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0654744,
+          55.5976942
+        ]
+      },
+      "id": "node/3665126362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3745046909",
+        "amenity": "cafe",
+        "brand": "Espresso House",
+        "brand:wikidata": "Q10489162",
+        "brand:wikipedia": "en:Espresso House",
+        "cuisine": "coffee_shop",
+        "name": "Espresso House",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9998133,
+          55.6067977
+        ]
+      },
+      "id": "node/3745046909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3745065528",
+        "amenity": "cafe",
+        "cuisine": "salad",
+        "name": "Mixan.se",
+        "opening_hours": "Mo-Fr 10:00-15:00; Sa-Su off",
+        "phone": "+46 40 972333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.990456,
+          55.6143006
+        ]
+      },
+      "id": "node/3745065528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3754763559",
+        "amenity": "cafe",
+        "name": "Coffee Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.00028,
+          55.6067645
+        ]
+      },
+      "id": "node/3754763559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3754763561",
+        "amenity": "cafe",
+        "name": "Café Alé",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9966028,
+          55.6065907
+        ]
+      },
+      "id": "node/3754763561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3777446768",
+        "amenity": "cafe",
+        "operator": "Espresso House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9340302,
+          55.5819228
+        ]
+      },
+      "id": "node/3777446768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3778749803",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9491954,
+          55.5982581
+        ]
+      },
+      "id": "node/3778749803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3794911379",
+        "amenity": "cafe",
+        "name": "Juicenbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9790274,
+          55.6097317
+        ]
+      },
+      "id": "node/3794911379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3840854670",
+        "amenity": "cafe",
+        "name": "Persborg café konditori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0322915,
+          55.5798894
+        ]
+      },
+      "id": "node/3840854670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4037719305",
+        "amenity": "cafe",
+        "name": "Galaxy cybercafé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0199117,
+          55.6063485
+        ]
+      },
+      "id": "node/4037719305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4037719316",
+        "amenity": "cafe",
+        "brand": "Espresso House",
+        "brand:wikidata": "Q10489162",
+        "brand:wikipedia": "en:Espresso House",
+        "cuisine": "coffee_shop",
+        "name": "Espresso house",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.023631,
+          55.6060009
+        ]
+      },
+      "id": "node/4037719316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4217517384",
+        "amenity": "cafe",
+        "contact:instagram": "https://www.instagram.com/lottalovelifestyle/",
+        "name": "Lotta Love Superfoodbar",
+        "website": "https://www.lottalovelifestyle.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000118,
+          55.5974545
+        ]
+      },
+      "id": "node/4217517384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4217517386",
+        "amenity": "cafe",
+        "name": "johan & nyström"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9989193,
+          55.6072569
+        ]
+      },
+      "id": "node/4217517386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234162763",
+        "amenity": "cafe",
+        "name": "Soprano café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9925607,
+          55.6068408
+        ]
+      },
+      "id": "node/4234162763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237208425",
+        "amenity": "cafe",
+        "brand": "Espresso House",
+        "brand:wikidata": "Q10489162",
+        "brand:wikipedia": "en:Espresso House",
+        "cuisine": "coffee_shop",
+        "name": "Espresso House",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0012914,
+          55.5952558
+        ]
+      },
+      "id": "node/4237208425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4356741064",
+        "amenity": "cafe",
+        "name": "Föreningen Sahara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0231182,
+          55.5769131
+        ]
+      },
+      "id": "node/4356741064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394482607",
+        "addr:city": "Malmö",
+        "addr:country": "SE",
+        "addr:housenumber": "27B",
+        "addr:postcode": "21436",
+        "addr:street": "Falsterbogatan",
+        "amenity": "cafe",
+        "cuisine": "latin_american",
+        "name": "Café Jesusbaren",
+        "opening_hours": "Tu-Su 10:00-18:00, Mo closed",
+        "payment:cash": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0142997,
+          55.5906354
+        ]
+      },
+      "id": "node/4394482607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4496973305",
+        "amenity": "cafe",
+        "name": "Koppi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9909479,
+          55.6078408
+        ]
+      },
+      "id": "node/4496973305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4582102438",
+        "amenity": "cafe",
+        "brand": "Wayne's Coffee",
+        "brand:wikidata": "Q2637272",
+        "brand:wikipedia": "en:Wayne's Coffee",
+        "cuisine": "coffee_shop",
+        "name": "Wayne's Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981915,
+          55.6139363
+        ]
+      },
+      "id": "node/4582102438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5588630321",
+        "amenity": "cafe",
+        "cuisine": "sushi",
+        "name": "Sushi Hamnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9786202,
+          55.6087106
+        ]
+      },
+      "id": "node/5588630321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5834378328",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9810859,
+          55.6120141
+        ]
+      },
+      "id": "node/5834378328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5894539182",
+        "amenity": "cafe",
+        "brand": "Joe & The Juice",
+        "brand:wikidata": "Q26221514",
+        "brand:wikipedia": "en:Joe & The Juice",
+        "changing_table": "no",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Joe & The Juice",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0022985,
+          55.6047015
+        ]
+      },
+      "id": "node/5894539182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6301869951",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/karleksgatan3",
+        "contact:instagram": "https://www.instagram.com/karleksgatan3/",
+        "name": "Kärleksgatan 3",
+        "opening_hours": "Tu-Fr 08:00-17:00; Sa 09:00-16:00",
+        "website": "http://www.karleksgatan3.se/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9999338,
+          55.5990999
+        ]
+      },
+      "id": "node/6301869951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6302226083",
+        "amenity": "cafe",
+        "cuisine": "salad;sandwich",
+        "name": "Graffiti Café",
+        "website": "https://www.graffiticafe.se/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0012159,
+          55.6005865
+        ]
+      },
+      "id": "node/6302226083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6302279917",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/augustsurfcafe",
+        "contact:instagram": "https://www.instagram.com/augustsurfcafe/",
+        "name": "August No Stress Surf Café",
+        "website": "https://www.augustsurfcafe.se/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9974123,
+          55.5978844
+        ]
+      },
+      "id": "node/6302279917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6303622732",
+        "amenity": "cafe",
+        "brand": "Joe & The Juice",
+        "brand:wikidata": "Q26221514",
+        "brand:wikipedia": "en:Joe & The Juice",
+        "name": "Joe & The Juice",
+        "website": "https://www.joejuice.com/stores/sweden/soedra-foerstadsgatan-15/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0008978,
+          55.5992267
+        ]
+      },
+      "id": "node/6303622732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6303622733",
+        "amenity": "cafe",
+        "name": "Agge & Bönan",
+        "website": "https://www.instagram.com/aggebonan/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000533,
+          55.59916
+        ]
+      },
+      "id": "node/6303622733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6303839489",
+        "amenity": "cafe",
+        "cuisine": "french",
+        "name": "Le Croissant",
+        "website": "https://www.lecroissant.se/cafe/Malm%C3%B6-City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0008334,
+          55.6005034
+        ]
+      },
+      "id": "node/6303839489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6385559697",
+        "amenity": "cafe",
+        "name": "Östra Kaffebaren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0215292,
+          55.6057788
+        ]
+      },
+      "id": "node/6385559697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6445496397",
+        "amenity": "cafe",
+        "cuisine": "cake;coffee_shop",
+        "name": "Eida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9974867,
+          55.6048098
+        ]
+      },
+      "id": "node/6445496397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6712109978",
+        "addr:country": "SE",
+        "addr:housenumber": "41c",
+        "addr:street": "Kristanstadsgatan",
+        "amenity": "cafe",
+        "books": "anarchism",
+        "description": "Amalthea bokkafé är en radikal bokhandel och mötesplats i Malmö",
+        "name": "Amalthea bokkafé",
+        "opening_hours": "Mo-Th 16:00-19:00; Su 12:00-15:00",
+        "shop": "books",
+        "website": "https://amaltheabokkafe.tumblr.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0167729,
+          55.5910223
+        ]
+      },
+      "id": "node/6712109978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6795693187",
+        "addr:country": "SE",
+        "addr:housenumber": "4",
+        "addr:street": "Hamngatan",
+        "amenity": "cafe",
+        "contact:instagram": "https://www.instagram.com/konditorikatarinahamngatan/",
+        "name": "Konditori Katarina",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
+        "website": "https://konditorikatarina.se"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0000476,
+          55.6071175
+        ]
+      },
+      "id": "node/6795693187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6800357591",
+        "amenity": "cafe",
+        "name": "Bara Vara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0136473,
+          55.5970198
+        ]
+      },
+      "id": "node/6800357591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6804927072",
+        "amenity": "cafe",
+        "name": "Atrium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9789188,
+          55.5974977
+        ]
+      },
+      "id": "node/6804927072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6989788438",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/absmaland/",
+        "contact:instagram": "https://www.instagram.com/absmaland/",
+        "name": "AB Småland",
+        "website": "https://www.absmaland.com/en/page/cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0009515,
+          55.5976446
+        ]
+      },
+      "id": "node/6989788438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7064616279",
+        "addr:city": "Malmö",
+        "addr:housenumber": "10",
+        "addr:postcode": "21436",
+        "addr:street": "Sölvesborgsgatan",
+        "amenity": "cafe",
+        "cuisine": "salads;soup;sandwiches",
+        "diet:vegan": "yes",
+        "name": "Flax",
+        "opening_hours": "Th-Sa 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0173054,
+          55.5926803
+        ]
+      },
+      "id": "node/7064616279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7282929878",
+        "addr:city": "Malmö",
+        "addr:housenumber": "88",
+        "addr:postcode": "21420",
+        "addr:street": "Södra Förstadsgatan",
+        "amenity": "cafe",
+        "cuisine": "pastry",
+        "name": "Martins Konditori & Café",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0056631,
+          55.5921161
+        ]
+      },
+      "id": "node/7282929878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7283161479",
+        "amenity": "cafe",
+        "cuisine": "pastry",
+        "diet:vegan": "only",
+        "name": "Manna Kafé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0089193,
+          55.5897594
+        ]
+      },
+      "id": "node/7283161479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7283459643",
+        "amenity": "cafe",
+        "name": "Mocca Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0042021,
+          55.5949469
+        ]
+      },
+      "id": "node/7283459643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7442000453",
+        "addr:city": "Malmö",
+        "addr:housenumber": "22",
+        "addr:postcode": "212 21",
+        "addr:street": "Vattenverksvägen",
+        "amenity": "cafe",
+        "name": "Socker och Kanel",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su 07:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0374313,
+          55.6093335
+        ]
+      },
+      "id": "node/7442000453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7648265212",
+        "addr:housenumber": "79",
+        "addr:street": "Nobelvägen",
+        "amenity": "cafe",
+        "cuisine": "crepe",
+        "name": "Crepe & Dip",
+        "payment:cash": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0161322,
+          55.5901476
+        ]
+      },
+      "id": "node/7648265212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7648265213",
+        "addr:housenumber": "41A",
+        "addr:street": "Bergsgatan",
+        "amenity": "cafe",
+        "name": "Notello Rolls",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.006586,
+          55.5915633
+        ]
+      },
+      "id": "node/7648265213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7648265214",
+        "addr:housenumber": "7",
+        "addr:street": "Möllevångstorget",
+        "amenity": "cafe",
+        "name": "Notelle Hus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0084291,
+          55.5911257
+        ]
+      },
+      "id": "node/7648265214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7741137887",
+        "addr:housenumber": "77",
+        "addr:postcode": "23841",
+        "addr:street": "Krombyvägen",
+        "amenity": "cafe",
+        "cuisine": "cake;coffee_shop;pancake;sandwich",
+        "name": "Wasabi orangeri café & butik",
+        "website": "https://wasabi-orangeri.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.065039,
+          55.5265868
+        ]
+      },
+      "id": "node/7741137887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7900258810",
+        "addr:housenumber": "5a",
+        "addr:street": "Västra Varvsgatan",
+        "amenity": "cafe",
+        "name": "Kipos",
+        "payment:cash": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9791811,
+          55.6075312
+        ]
+      },
+      "id": "node/7900258810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7951261837",
+        "addr:city": "Malmö",
+        "addr:housenumber": "15 A",
+        "addr:street": "Stora Varvsgatan",
+        "amenity": "cafe",
+        "name": "Yallatrappan",
+        "opening_hours": "11:00-17:30",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9850686,
+          55.6115048
+        ]
+      },
+      "id": "node/7951261837"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.6 474850e8",
+  "osm3s": {
+    "timestamp_osm_base": "2020-10-23T14:53:03Z",
+    "timestamp_areas_base": "2020-10-23T14:05:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 7442000453,
+  "lat": 55.6093335,
+  "lon": 13.0374313,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:housenumber": "22",
+    "addr:postcode": "212 21",
+    "addr:street": "Vattenverksvägen",
+    "amenity": "cafe",
+    "name": "Socker och Kanel",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su 07:00-14:00"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,1643 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "osm3s": {
+    "timestamp_osm_base": "2020-10-24T11:43:03Z",
+    "timestamp_areas_base": "2020-10-24T11:34:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 417994872,
+  "lat": 55.6011294,
+  "lon": 13.0099169,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Element",
+    "opening_hours": "Mo-Fr 09:30-18:00, Sa,Su 10:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 417994873,
+  "lat": 55.6014218,
+  "lon": 13.0106851,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Pappas flickor"
+  }
+},
+{
+  "type": "node",
+  "id": 444845100,
+  "lat": 55.6087207,
+  "lon": 12.9995291,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Espresso House",
+    "brand:wikidata": "Q10489162",
+    "brand:wikipedia": "en:Espresso House",
+    "cuisine": "coffee_shop",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Espresso House",
+    "opening_hours": "Mo-Fr 05:30-22:00, Sa,Su 07:00-20:00",
+    "operator": "Espresso House",
+    "source": "survey",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 444845105,
+  "lat": 55.6106266,
+  "lon": 12.9729934,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Espresso House",
+    "brand:wikidata": "Q10489162",
+    "brand:wikipedia": "en:Espresso House",
+    "cuisine": "coffee_shop",
+    "name": "Espresso House",
+    "operator": "Espresso House",
+    "takeaway": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 444870966,
+  "lat": 55.6078414,
+  "lon": 13.0074188,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "7b",
+    "addr:postcode": "21125",
+    "addr:street": "Östergatan",
+    "amenity": "cafe",
+    "cuisine": "french",
+    "name": "Pâtisserie David",
+    "source": "http://www.patisseriedavid.se/",
+    "website": "http://www.patisseriedavid.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 444880200,
+  "lat": 55.6064603,
+  "lon": 13.0206018,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "african",
+    "name": "African way"
+  }
+},
+{
+  "type": "node",
+  "id": 445846438,
+  "lat": 55.5858153,
+  "lon": 13.0064160,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Wallins konditori",
+    "opening_hours": "Mo-Fr 06:00-19:00; Sa 07:00-18:00; Su 08:00-16:00",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 472675243,
+  "lat": 55.5596357,
+  "lon": 12.9347897,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Skånegården"
+  }
+},
+{
+  "type": "node",
+  "id": 536833709,
+  "lat": 55.5910428,
+  "lon": 13.0087673,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Kaffebaren",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 09:00-18:00",
+    "payment:cash": "yes",
+    "takeaway": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 625987389,
+  "lat": 55.6112939,
+  "lon": 12.9943151,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "3",
+    "addr:postcode": "21119",
+    "addr:street": "Anckargripsgatan",
+    "amenity": "cafe",
+    "name": "Välfärden",
+    "opening_hours": "mo-fr 08:00-16:00",
+    "payment:cash": "no",
+    "phone": "+46 40 26 43 30",
+    "website": "https://valfarden.nu/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 897688921,
+  "lat": 55.5848529,
+  "lon": 13.0176798,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Arena 305"
+  }
+},
+{
+  "type": "node",
+  "id": 1176790954,
+  "lat": 55.5961800,
+  "lon": 13.0034500,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Mocca",
+    "wheelchair": "no",
+    "wheelchair:description": "3 steps to get in, no accessable bathroom"
+  }
+},
+{
+  "type": "node",
+  "id": 1176797496,
+  "lat": 55.6049603,
+  "lon": 12.9993200,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "11",
+    "addr:postcode": "21134",
+    "addr:street": "Skomakaregatan",
+    "amenity": "cafe",
+    "name": "Folk å Rock",
+    "phone": "+46 40 78103",
+    "website": "https://folkarock.se/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1208663511,
+  "lat": 55.5879883,
+  "lon": 13.0171158,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Tryckeriet"
+  }
+},
+{
+  "type": "node",
+  "id": 1309334554,
+  "lat": 55.5996979,
+  "lon": 13.0055497,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "2 a",
+    "addr:postcode": "211 49",
+    "addr:street": "Kungsgatan",
+    "amenity": "cafe",
+    "cuisine": "regional",
+    "name": "Kafé Kungsgatan",
+    "website": "http://www.kungsg.se"
+  }
+},
+{
+  "type": "node",
+  "id": 1309356207,
+  "lat": 55.6002337,
+  "lon": 13.0046313,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "11",
+    "addr:postcode": "211 41",
+    "addr:street": "Kaptensgatan",
+    "amenity": "cafe",
+    "name": "Café 2000",
+    "opening_hours": "Mo-Fr 10:00-18:00, Sa 12:00-16:00",
+    "website": "http://www.cafe2000.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 1359118612,
+  "lat": 55.5509315,
+  "lon": 13.0039240,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Kleins Mat",
+    "website": "http://www.kleinsmat.se"
+  }
+},
+{
+  "type": "node",
+  "id": 1488710555,
+  "lat": 55.5969410,
+  "lon": 13.0137563,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Uggla",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa,Su 10:00-16:00",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1624179498,
+  "lat": 55.6055065,
+  "lon": 13.0263175,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Café Grannen"
+  }
+},
+{
+  "type": "node",
+  "id": 1668872414,
+  "lat": 55.5937552,
+  "lon": 12.9859105,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "5",
+    "addr:postcode": "21743",
+    "addr:street": "Köpenhamnsvägen",
+    "amenity": "cafe",
+    "name": "Feed"
+  }
+},
+{
+  "type": "node",
+  "id": 1669560489,
+  "lat": 55.5954240,
+  "lon": 12.9857669,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "53",
+    "addr:postcode": "21741",
+    "addr:street": "Västra Rönneholmsvägen",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Knus",
+    "opening_hours": "We-Fr 11:00-17:00; Sa 11:00-15:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1669563673,
+  "lat": 55.5963100,
+  "lon": 12.9931425,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "26",
+    "addr:street": "Östra Rönneholmsvägen",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Systrar & Bröder",
+    "opening_hours": "Mo,Tu 07:30-16:00, We-Fr 07:30-18:00, Sa 08:00-16:00, Su 09:00-16:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1677335986,
+  "lat": 55.6137424,
+  "lon": 12.9909920,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:housenumber": "10 B",
+    "addr:postcode": "211 19",
+    "addr:street": "Isbergs gata",
+    "amenity": "cafe",
+    "name": "Bryggans bageri & café",
+    "opening_hours": "Mo-Fr 09:00-14:30; Sa 09:00-12:00; Su off",
+    "opening_hours:covid19": "open",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 1677336006,
+  "lat": 55.6092820,
+  "lon": 12.9998033,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1677336035,
+  "lat": 55.6094643,
+  "lon": 13.0004214,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Espresso House",
+    "brand:wikidata": "Q10489162",
+    "brand:wikipedia": "en:Espresso House",
+    "cuisine": "coffee_shop",
+    "name": "Espresso House",
+    "payment:cash": "no",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1677336195,
+  "lat": 55.6128624,
+  "lon": 12.9746191,
+  "tags": {
+    "amenity": "cafe",
+    "name": "West Side La Marina",
+    "note": "café & glassbar"
+  }
+},
+{
+  "type": "node",
+  "id": 1685937003,
+  "lat": 55.6126372,
+  "lon": 12.9856568,
+  "tags": {
+    "amenity": "cafe",
+    "contact:website": "http://graffiticafe.se/index.php?ID=vastrahamnen",
+    "name": "Graffiti",
+    "website": "http://graffiticafe.se/index.php?ID=vastrahamnen"
+  }
+},
+{
+  "type": "node",
+  "id": 1719418321,
+  "lat": 55.5823076,
+  "lon": 12.9292586,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Limhamns kakbod & café"
+  }
+},
+{
+  "type": "node",
+  "id": 1726889262,
+  "lat": 55.5913132,
+  "lon": 13.0075194,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Coffee Point"
+  }
+},
+{
+  "type": "node",
+  "id": 1855387943,
+  "lat": 55.5969867,
+  "lon": 13.0128191,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:postcode": "211 57",
+    "addr:street": "S:t Knuts Torg 6A",
+    "amenity": "cafe",
+    "cuisine": "sandwich",
+    "name": "Sankt Knuts Bageri Konditori & Café",
+    "opening_hours": "Mo-Su 08:00-18:00",
+    "payment:cash": "yes",
+    "short_name": "S:t Knuts Bageri Konditori & Café",
+    "website": "https://www.cafekartan.se/018006/Sankt_Knuts_Bageri_Konditori_%26_Caf%C3%A9/",
+    "wheelchair": "limited",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2206415088,
+  "lat": 55.6003430,
+  "lon": 13.0012205,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "8",
+    "addr:postcode": "211 43 Malmö",
+    "addr:street": "Södra Förstadsgatan",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Konditori Hollandia",
+    "payment:cash": "yes",
+    "website": "https://hollandia.se/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2266095947,
+  "lat": 55.5951054,
+  "lon": 13.0169428,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "1",
+    "addr:postcode": "21158",
+    "addr:street": "Falsterbogatan",
+    "amenity": "cafe",
+    "cuisine": "vegetarian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Jord",
+    "opening_hours": "Tu-Fr 10:00-16:00; Sa 10:00-17:00; Su 10:00-17:00",
+    "payment:cash": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2293728897,
+  "lat": 55.6033151,
+  "lon": 13.0004714,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Bageri caféet",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2293728898,
+  "lat": 55.6044211,
+  "lon": 13.0013958,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Barista",
+    "name": "Barista",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2293728923,
+  "lat": 55.6045384,
+  "lon": 13.0007246,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Espresso House",
+    "brand:wikidata": "Q10489162",
+    "brand:wikipedia": "en:Espresso House",
+    "cuisine": "coffee_shop",
+    "name": "Espresso House",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2293728924,
+  "lat": 55.6052324,
+  "lon": 12.9992568,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Espresso House",
+    "brand:wikidata": "Q10489162",
+    "brand:wikipedia": "en:Espresso House",
+    "cuisine": "coffee_shop",
+    "name": "Espresso House",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2293728966,
+  "lat": 55.6051204,
+  "lon": 12.9976717,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "ice_cream",
+    "name": "Lejonet & Björnen"
+  }
+},
+{
+  "type": "node",
+  "id": 2293728993,
+  "lat": 55.6050510,
+  "lon": 12.9977269,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Noir"
+  }
+},
+{
+  "type": "node",
+  "id": 2293729008,
+  "lat": 55.6053659,
+  "lon": 12.9992376,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Pronto",
+    "name": "Pronto"
+  }
+},
+{
+  "type": "node",
+  "id": 2372994484,
+  "lat": 55.5923458,
+  "lon": 13.0190992,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Bröd & Vänner",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-15:00; Su 09:00-15:00",
+    "payment:cash": "yes",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2408160477,
+  "lat": 55.5948987,
+  "lon": 13.0035411,
+  "tags": {
+    "amenity": "cafe",
+    "entrance": "yes",
+    "level": "0",
+    "name": "Espresso Maker"
+  }
+},
+{
+  "type": "node",
+  "id": 2629795116,
+  "lat": 55.6123981,
+  "lon": 12.9912192,
+  "tags": {
+    "amenity": "cafe",
+    "branch": "Malmoe",
+    "name": "Foo Café",
+    "operator": "Foo Café AB",
+    "website": "https://foocafe.org/malmoe"
+  }
+},
+{
+  "type": "node",
+  "id": 2958276010,
+  "lat": 55.5979625,
+  "lon": 12.9752977,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Konditori Regementet"
+  }
+},
+{
+  "type": "node",
+  "id": 3051074390,
+  "lat": 55.5949446,
+  "lon": 13.0034523,
+  "tags": {
+    "amenity": "cafe",
+    "indoor": "yes",
+    "name": "Ambrosia",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3051074416,
+  "lat": 55.5980722,
+  "lon": 12.9974146,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "frozen_jogurt",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3051074422,
+  "lat": 55.5959120,
+  "lon": 13.0020634,
+  "tags": {
+    "amenity": "cafe",
+    "indoor": "yes",
+    "level": "1",
+    "name": "Wayne's",
+    "smoking": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3051074424,
+  "lat": 55.5944955,
+  "lon": 13.0033909,
+  "tags": {
+    "amenity": "cafe",
+    "name": "noı's",
+    "opening_hours": "Tu-Fr 11:00-19:00; Sa 11:00-18:30",
+    "source": "survey",
+    "website": "http://www.nois.nu"
+  }
+},
+{
+  "type": "node",
+  "id": 3139895157,
+  "lat": 55.5857668,
+  "lon": 13.0059415,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Olivias deli"
+  }
+},
+{
+  "type": "node",
+  "id": 3283009692,
+  "lat": 55.5962093,
+  "lon": 13.0139586,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "6",
+    "addr:postcode": "211 57",
+    "addr:street": "Mäster Henriksgatan",
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Nummer 6"
+  }
+},
+{
+  "type": "node",
+  "id": 3357939782,
+  "lat": 55.6052875,
+  "lon": 12.9952101,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "8",
+    "addr:street": "Långgårdsgatan",
+    "amenity": "cafe",
+    "name": "Café Basement"
+  }
+},
+{
+  "type": "node",
+  "id": 3357939784,
+  "lat": 55.6062173,
+  "lon": 12.9954817,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Bagels Café & Catering"
+  }
+},
+{
+  "type": "node",
+  "id": 3357999876,
+  "lat": 55.6030554,
+  "lon": 12.9955578,
+  "tags": {
+    "addr:country": "SE",
+    "addr:housenumber": "11",
+    "addr:street": "Agnesgatan",
+    "amenity": "cafe",
+    "name": "Kafé Agnez",
+    "name:sv": "Kafé Agnez",
+    "opening_hours": "Mo-Su 11:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3361567564,
+  "lat": 55.6032854,
+  "lon": 12.9984481,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Playbake"
+  }
+},
+{
+  "type": "node",
+  "id": 3361573124,
+  "lat": 55.6055900,
+  "lon": 12.9962246,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Frälsningsarmén"
+  }
+},
+{
+  "type": "node",
+  "id": 3399372495,
+  "lat": 55.5979521,
+  "lon": 12.9957467,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "1",
+    "addr:postcode": "21148",
+    "addr:street": "Helmfeltsgatan",
+    "amenity": "cafe",
+    "cuisine": "kaffe",
+    "name": "Musette",
+    "opening_hours": "Mo-Fr 11:00-18:00; Sa 11:00-15:00",
+    "shop": "bicycle",
+    "website": "https://www.musette.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 3400216789,
+  "lat": 55.6007825,
+  "lon": 13.0005028,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "2",
+    "addr:postcode": "21143",
+    "addr:street": "Regementsgatan",
+    "amenity": "cafe",
+    "contact:facebook": "https://www.facebook.com/soldekaffebar",
+    "contact:instagram": "https://www.instagram.com/soldekaffe",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "internet_access:ssid": "solde",
+    "name": "Solde",
+    "payment:cash": "yes",
+    "smoking": "no",
+    "website": "http://www.solde.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 3402678104,
+  "lat": 55.5961580,
+  "lon": 13.0005130,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Nostra",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3402678107,
+  "lat": 55.6057249,
+  "lon": 13.0044063,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Djäkne kaffebar"
+  }
+},
+{
+  "type": "node",
+  "id": 3402678108,
+  "lat": 55.6136100,
+  "lon": 12.9910960,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:postcode": "211 19",
+    "addr:street": "Isbergs gata",
+    "amenity": "cafe",
+    "name": "Grytan i Dockan",
+    "opening_hours": "Mo-Fr 11:30-13:30; Sa-Su off"
+  }
+},
+{
+  "type": "node",
+  "id": 3402678112,
+  "lat": 55.6089060,
+  "lon": 13.0015110,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Green Yellow Juice bar"
+  }
+},
+{
+  "type": "node",
+  "id": 3402678114,
+  "lat": 55.5889320,
+  "lon": 13.0075160,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Café Vendi",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa,Su 10:00-17:00",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3402678120,
+  "lat": 55.6010520,
+  "lon": 13.0064930,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Larssons bröd och salladsbar"
+  }
+},
+{
+  "type": "node",
+  "id": 3402678125,
+  "lat": 55.6078020,
+  "lon": 13.0056130,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Puls"
+  }
+},
+{
+  "type": "node",
+  "id": 3402696488,
+  "lat": 55.5948430,
+  "lon": 13.0005470,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Joe & The Juice",
+    "brand:wikidata": "Q26221514",
+    "brand:wikipedia": "en:Joe & The Juice",
+    "cuisine": "coffee_shop",
+    "name": "Joe & the Juice",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3408732006,
+  "lat": 55.6067747,
+  "lon": 12.9977124,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Olga's Coffee & Simple Pleasures",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3414459924,
+  "lat": 55.6069200,
+  "lon": 12.9967678,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Röstånga Mölla"
+  }
+},
+{
+  "type": "node",
+  "id": 3580863602,
+  "lat": 55.5966436,
+  "lon": 13.0141745,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "3",
+    "addr:postcode": "211 57",
+    "addr:street": "Mäster Danielsgatan",
+    "amenity": "cafe",
+    "name": "Söderberg & Sara",
+    "phone": "+46-40-125810"
+  }
+},
+{
+  "type": "node",
+  "id": 3665126362,
+  "lat": 55.5976942,
+  "lon": 13.0654744,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 3745046909,
+  "lat": 55.6067977,
+  "lon": 12.9998133,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Espresso House",
+    "brand:wikidata": "Q10489162",
+    "brand:wikipedia": "en:Espresso House",
+    "cuisine": "coffee_shop",
+    "name": "Espresso House",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3745065528,
+  "lat": 55.6143006,
+  "lon": 12.9904560,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "salad",
+    "name": "Mixan.se",
+    "opening_hours": "Mo-Fr 10:00-15:00; Sa-Su off",
+    "phone": "+46 40 972333"
+  }
+},
+{
+  "type": "node",
+  "id": 3754763559,
+  "lat": 55.6067645,
+  "lon": 13.0002800,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Coffee Factory"
+  }
+},
+{
+  "type": "node",
+  "id": 3754763561,
+  "lat": 55.6065907,
+  "lon": 12.9966028,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Café Alé",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3777446768,
+  "lat": 55.5819228,
+  "lon": 12.9340302,
+  "tags": {
+    "amenity": "cafe",
+    "operator": "Espresso House"
+  }
+},
+{
+  "type": "node",
+  "id": 3778749803,
+  "lat": 55.5982581,
+  "lon": 12.9491954,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 3794911379,
+  "lat": 55.6097317,
+  "lon": 12.9790274,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Juicenbar"
+  }
+},
+{
+  "type": "node",
+  "id": 3840854670,
+  "lat": 55.5798894,
+  "lon": 13.0322915,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Persborg café konditori"
+  }
+},
+{
+  "type": "node",
+  "id": 4037719305,
+  "lat": 55.6063485,
+  "lon": 13.0199117,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Galaxy cybercafé"
+  }
+},
+{
+  "type": "node",
+  "id": 4037719316,
+  "lat": 55.6060009,
+  "lon": 13.0236310,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Espresso House",
+    "brand:wikidata": "Q10489162",
+    "brand:wikipedia": "en:Espresso House",
+    "cuisine": "coffee_shop",
+    "name": "Espresso house",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4217517384,
+  "lat": 55.5974545,
+  "lon": 13.0001180,
+  "tags": {
+    "amenity": "cafe",
+    "contact:instagram": "https://www.instagram.com/lottalovelifestyle/",
+    "name": "Lotta Love Superfoodbar",
+    "website": "https://www.lottalovelifestyle.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4217517386,
+  "lat": 55.6072569,
+  "lon": 12.9989193,
+  "tags": {
+    "amenity": "cafe",
+    "name": "johan & nyström"
+  }
+},
+{
+  "type": "node",
+  "id": 4234162763,
+  "lat": 55.6068408,
+  "lon": 12.9925607,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Soprano café"
+  }
+},
+{
+  "type": "node",
+  "id": 4237208425,
+  "lat": 55.5952558,
+  "lon": 13.0012914,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Espresso House",
+    "brand:wikidata": "Q10489162",
+    "brand:wikipedia": "en:Espresso House",
+    "cuisine": "coffee_shop",
+    "name": "Espresso House",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4356741064,
+  "lat": 55.5769131,
+  "lon": 13.0231182,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Föreningen Sahara"
+  }
+},
+{
+  "type": "node",
+  "id": 4394482607,
+  "lat": 55.5906354,
+  "lon": 13.0142997,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "27B",
+    "addr:postcode": "21436",
+    "addr:street": "Falsterbogatan",
+    "amenity": "cafe",
+    "cuisine": "latin_american",
+    "name": "Café Jesusbaren",
+    "opening_hours": "Tu-Su 10:00-18:00, Mo closed",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4496973305,
+  "lat": 55.6078408,
+  "lon": 12.9909479,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Koppi"
+  }
+},
+{
+  "type": "node",
+  "id": 4582102438,
+  "lat": 55.6139363,
+  "lon": 12.9819150,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Wayne's Coffee",
+    "brand:wikidata": "Q2637272",
+    "brand:wikipedia": "en:Wayne's Coffee",
+    "cuisine": "coffee_shop",
+    "name": "Wayne's Coffee",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5588630321,
+  "lat": 55.6087106,
+  "lon": 12.9786202,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "sushi",
+    "name": "Sushi Hamnen"
+  }
+},
+{
+  "type": "node",
+  "id": 5834378328,
+  "lat": 55.6120141,
+  "lon": 12.9810859,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 5894539182,
+  "lat": 55.6047015,
+  "lon": 13.0022985,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Joe & The Juice",
+    "brand:wikidata": "Q26221514",
+    "brand:wikipedia": "en:Joe & The Juice",
+    "changing_table": "no",
+    "cuisine": "coffee_shop",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Joe & The Juice",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6301869951,
+  "lat": 55.5990999,
+  "lon": 12.9999338,
+  "tags": {
+    "amenity": "cafe",
+    "contact:facebook": "https://www.facebook.com/karleksgatan3",
+    "contact:instagram": "https://www.instagram.com/karleksgatan3/",
+    "name": "Kärleksgatan 3",
+    "opening_hours": "Tu-Fr 08:00-17:00; Sa 09:00-16:00",
+    "website": "http://www.karleksgatan3.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 6302226083,
+  "lat": 55.6005865,
+  "lon": 13.0012159,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "salad;sandwich",
+    "name": "Graffiti Café",
+    "website": "https://www.graffiticafe.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 6302279917,
+  "lat": 55.5978844,
+  "lon": 12.9974123,
+  "tags": {
+    "amenity": "cafe",
+    "contact:facebook": "https://www.facebook.com/augustsurfcafe",
+    "contact:instagram": "https://www.instagram.com/augustsurfcafe/",
+    "name": "August No Stress Surf Café",
+    "website": "https://www.augustsurfcafe.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 6303622732,
+  "lat": 55.5992267,
+  "lon": 13.0008978,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Joe & The Juice",
+    "brand:wikidata": "Q26221514",
+    "brand:wikipedia": "en:Joe & The Juice",
+    "name": "Joe & The Juice",
+    "website": "https://www.joejuice.com/stores/sweden/soedra-foerstadsgatan-15/"
+  }
+},
+{
+  "type": "node",
+  "id": 6303622733,
+  "lat": 55.5991600,
+  "lon": 13.0005330,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Agge & Bönan",
+    "website": "https://www.instagram.com/aggebonan/"
+  }
+},
+{
+  "type": "node",
+  "id": 6303839489,
+  "lat": 55.6005034,
+  "lon": 13.0008334,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "french",
+    "name": "Le Croissant",
+    "website": "https://www.lecroissant.se/cafe/Malm%C3%B6-City"
+  }
+},
+{
+  "type": "node",
+  "id": 6385559697,
+  "lat": 55.6057788,
+  "lon": 13.0215292,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Östra Kaffebaren"
+  }
+},
+{
+  "type": "node",
+  "id": 6445496397,
+  "lat": 55.6048098,
+  "lon": 12.9974867,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "cake;coffee_shop",
+    "name": "Eida"
+  }
+},
+{
+  "type": "node",
+  "id": 6712109978,
+  "lat": 55.5910223,
+  "lon": 13.0167729,
+  "tags": {
+    "addr:country": "SE",
+    "addr:housenumber": "41c",
+    "addr:street": "Kristanstadsgatan",
+    "amenity": "cafe",
+    "books": "anarchism",
+    "description": "Amalthea bokkafé är en radikal bokhandel och mötesplats i Malmö",
+    "name": "Amalthea bokkafé",
+    "opening_hours": "Mo-Th 16:00-19:00; Su 12:00-15:00",
+    "shop": "books",
+    "website": "https://amaltheabokkafe.tumblr.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6795693187,
+  "lat": 55.6071175,
+  "lon": 13.0000476,
+  "tags": {
+    "addr:country": "SE",
+    "addr:housenumber": "4",
+    "addr:street": "Hamngatan",
+    "amenity": "cafe",
+    "contact:instagram": "https://www.instagram.com/konditorikatarinahamngatan/",
+    "name": "Konditori Katarina",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
+    "website": "https://konditorikatarina.se"
+  }
+},
+{
+  "type": "node",
+  "id": 6800357591,
+  "lat": 55.5970198,
+  "lon": 13.0136473,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Bara Vara"
+  }
+},
+{
+  "type": "node",
+  "id": 6804927072,
+  "lat": 55.5974977,
+  "lon": 12.9789188,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Atrium"
+  }
+},
+{
+  "type": "node",
+  "id": 6989788438,
+  "lat": 55.5976446,
+  "lon": 13.0009515,
+  "tags": {
+    "amenity": "cafe",
+    "contact:facebook": "https://www.facebook.com/absmaland/",
+    "contact:instagram": "https://www.instagram.com/absmaland/",
+    "name": "AB Småland",
+    "website": "https://www.absmaland.com/en/page/cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 7064616279,
+  "lat": 55.5926803,
+  "lon": 13.0173054,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:housenumber": "10",
+    "addr:postcode": "21436",
+    "addr:street": "Sölvesborgsgatan",
+    "amenity": "cafe",
+    "cuisine": "salads;soup;sandwiches",
+    "diet:vegan": "yes",
+    "name": "Flax",
+    "opening_hours": "Th-Sa 10:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7282929878,
+  "lat": 55.5921161,
+  "lon": 13.0056631,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:housenumber": "88",
+    "addr:postcode": "21420",
+    "addr:street": "Södra Förstadsgatan",
+    "amenity": "cafe",
+    "cuisine": "pastry",
+    "name": "Martins Konditori & Café",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7283161479,
+  "lat": 55.5897594,
+  "lon": 13.0089193,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "pastry",
+    "diet:vegan": "only",
+    "name": "Manna Kafé"
+  }
+},
+{
+  "type": "node",
+  "id": 7283459643,
+  "lat": 55.5949469,
+  "lon": 13.0042021,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Mocca Café"
+  }
+},
+{
+  "type": "node",
+  "id": 7442000453,
+  "lat": 55.6093335,
+  "lon": 13.0374313,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:housenumber": "22",
+    "addr:postcode": "212 21",
+    "addr:street": "Vattenverksvägen",
+    "amenity": "cafe",
+    "name": "Socker och Kanel",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su 07:00-14:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7648265212,
+  "lat": 55.5901476,
+  "lon": 13.0161322,
+  "tags": {
+    "addr:housenumber": "79",
+    "addr:street": "Nobelvägen",
+    "amenity": "cafe",
+    "cuisine": "crepe",
+    "name": "Crepe & Dip",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7648265213,
+  "lat": 55.5915633,
+  "lon": 13.0065860,
+  "tags": {
+    "addr:housenumber": "41A",
+    "addr:street": "Bergsgatan",
+    "amenity": "cafe",
+    "name": "Notello Rolls",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7648265214,
+  "lat": 55.5911257,
+  "lon": 13.0084291,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:street": "Möllevångstorget",
+    "amenity": "cafe",
+    "name": "Notelle Hus"
+  }
+},
+{
+  "type": "node",
+  "id": 7741137887,
+  "lat": 55.5265868,
+  "lon": 13.0650390,
+  "tags": {
+    "addr:housenumber": "77",
+    "addr:postcode": "23841",
+    "addr:street": "Krombyvägen",
+    "amenity": "cafe",
+    "cuisine": "cake;coffee_shop;pancake;sandwich",
+    "name": "Wasabi orangeri café & butik",
+    "website": "https://wasabi-orangeri.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7900258810,
+  "lat": 55.6075312,
+  "lon": 12.9791811,
+  "tags": {
+    "addr:housenumber": "5a",
+    "addr:street": "Västra Varvsgatan",
+    "amenity": "cafe",
+    "name": "Kipos",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7951261837,
+  "lat": 55.6115048,
+  "lon": 12.9850686,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:housenumber": "15 A",
+    "addr:street": "Stora Varvsgatan",
+    "amenity": "cafe",
+    "name": "Yallatrappan",
+    "opening_hours": "11:00-17:30",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 99835705,
+  "center": {
+    "lat": 55.6037766,
+    "lon": 12.9892087
+  },
+  "nodes": [
+    1154171780,
+    1154171778,
+    1154171776,
+    1154171781,
+    3359583337,
+    3359583338,
+    3359583339,
+    3359583340,
+    3359583341,
+    3359583342,
+    1154171780
+  ],
+  "tags": {
+    "amenity": "cafe",
+    "building": "yes",
+    "cuisine": "coffee_shop",
+    "name": "Slottsträdgårdens Kafé",
+    "opening_hours": "Mo-Su 11:00-17:00",
+    "source": "survey",
+    "website": "www.slottstradgardenskafe.se",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 189510000,
+  "center": {
+    "lat": 55.5922705,
+    "lon": 13.0014409
+  },
+  "nodes": [
+    2001133521,
+    2409034813,
+    2001133511,
+    2001133523,
+    2409034812,
+    2001133519,
+    2409034808,
+    2001133521
+  ],
+  "tags": {
+    "amenity": "cafe",
+    "building": "yes",
+    "name": "Doffeln",
+    "payment:cash": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 220245481,
+  "center": {
+    "lat": 55.6045225,
+    "lon": 13.0028859
+  },
+  "nodes": [
+    2293729180,
+    663366797,
+    2293729184,
+    663366798,
+    663366799,
+    444823481,
+    6381435639,
+    2293729180
+  ],
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "24",
+    "addr:postcode": "211 36",
+    "addr:street": "Baltzarsgatan",
+    "amenity": "cafe",
+    "contact:website": "http://www.lillakafferosteriet.se/",
+    "cuisine": "coffee_shop",
+    "name": "Lilla Kafferosteriet",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 10:00-18:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "no",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "permissive",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 230902324,
+  "center": {
+    "lat": 55.5608845,
+    "lon": 12.9519040
+  },
+  "nodes": [
+    2393338202,
+    2393338216,
+    2393338211,
+    2393338195,
+    2393338202
+  ],
+  "tags": {
+    "amenity": "cafe",
+    "building": "yes",
+    "fixme": "amenity type",
+    "name": "Mässingens mat och trädgård"
+  }
+},
+{
+  "type": "way",
+  "id": 383042812,
+  "center": {
+    "lat": 55.6048720,
+    "lon": 12.9657334
+  },
+  "nodes": [
+    3862449662,
+    3862449658,
+    3862448053,
+    311239877,
+    311239878,
+    3862448052,
+    312400999,
+    3862448056,
+    311239879,
+    311239880,
+    3862449662
+  ],
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "Brygga 1",
+    "addr:postcode": "217 59",
+    "addr:street": "Limhamnsvägen",
+    "amenity": "cafe",
+    "contact:website": "http://www.ribersborgskallbadhus.se/",
+    "level": "0",
+    "name": "Ribersborgs Kallbadhus",
+    "operator": "Hekajo AB"
+  }
+}
+
+  ]
+}
