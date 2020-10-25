@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='osmjson2geojson',
-    version='0.0.1.dev1',
+    version='0.0.2',
     description='Converts OSM json from Overpass API to geojson.',
     url='https://github.com/pypa/sampleproject',
     author='Daniel Hamngren',

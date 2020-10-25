@@ -22,10 +22,11 @@ def convert(osmjson):
 
 
 def convert_elements(elements):
+    relations = convert_relations_with_center(elements)
     ways = convert_ways_with_center(elements)
     nodes = convert_nodes(elements)
 
-    return ways + nodes
+    return relations + ways + nodes
 
 
 def convert_nodes(elements):
@@ -42,6 +43,18 @@ def convert_ways_with_center(elements):
     features = []
     for element in elements:
         if element['type'] == 'way' and 'center' in element:
+            coordinates = [element['center']['lon'], element['center']['lat']]
+            element['tags']['@geometry'] = 'center'
+
+            feature = create_point_feature(element, coordinates)
+
+            features.append(feature)
+    return features
+
+def convert_relations_with_center(elements):
+    features = []
+    for element in elements:
+        if element['type'] == 'relation' and 'center' in element:
             coordinates = [element['center']['lon'], element['center']['lat']]
             element['tags']['@geometry'] = 'center'
 

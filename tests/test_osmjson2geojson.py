@@ -45,4 +45,30 @@ def test_malmo_osmjson_point_element():
     with open("tests/malmo.geojson", "r") as geojson_file:
         geojson = json.load(geojson_file)
 
-    assert convert(osmjson) == geojson
+    actual = convert(osmjson)
+
+    assert actual == geojson
+
+
+def test_malmo_osmjson_point_element_all_amenities():
+    with open("tests/malmo_all.json", "r") as osmjson_file:
+        osmjson = json.load(osmjson_file)
+
+    with open("tests/malmo_all.geojson", "r") as geojson_file:
+        geojson = json.load(geojson_file)
+
+    actual = convert(osmjson)
+
+    assert len(actual['features']) == len(geojson['features'])
+
+
+def test_malmo_osmjson_point_element_all_amenities_in_features_list():
+    with open("tests/malmo_all.json", "r") as osmjson_file:
+        osmjson = json.load(osmjson_file)
+
+    with open("tests/malmo_all.geojson", "r") as geojson_file:
+        geojson = json.load(geojson_file)
+
+    actual = convert(osmjson)
+
+    assert sorted(actual['features'], key=lambda k: k['id']) == sorted(geojson['features'], key=lambda k: k['id'])
